@@ -1,6 +1,6 @@
 label,cancer_code,country_code,sex,type,asr,crude_rate,cum_risk_74,total
-Lip, oral cavity,1,900,0,0,4,4.94,0.46,389846
-Lip, oral cavity,1,900,0,1,1.92,2.39,0.22,188438
+Lip oral cavity,1,900,0,0,4,4.94,0.46,389846
+Lip oral cavity,1,900,0,1,1.92,2.39,0.22,188438
 Salivary glands,2,900,0,0,0.56,0.7,0.06,55083
 Salivary glands,2,900,0,1,0.23,0.3,0.03,23942
 Oropharynx,3,900,0,0,1.1,1.35,0.13,106400
